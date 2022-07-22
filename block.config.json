@@ -1,0 +1,1 @@
+{"name":"todoContainer44","type":"ui-container","source":{"https":"https://github.com/uttahb/todoContainer44","ssh":"git@github.com:uttahb/todoContainer44.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i","standAloneBlock":false}
